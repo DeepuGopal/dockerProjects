@@ -9,6 +9,7 @@ Runs on default port of Spring Boot - 8080
 `mvn clean install` generate a war which can deployed to your favorite web server.
 
 We will deploy to Docker as a WAR
+downloading from git hub to docker repository
 
 ## Web Application
 
